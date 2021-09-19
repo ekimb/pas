@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "pas_proc_macro",
+    "examples"
+]
